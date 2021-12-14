@@ -14,7 +14,7 @@ collection of tools to work with metric learning tasks
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#bundles">Bundles</a> •
-  <a href="#Demo">For Developers</a> • 
+  <a href="#for-developers">For Developers</a> • 
   <a href="#about-us">About Us</a> 
 
 </p>
@@ -25,51 +25,63 @@ collection of tools to work with metric learning tasks
 
 # Overview
 
-This collection is designed to cover **Metric Learning** tasks using [**Supervisely**](https://supervise.ly/). The
-collection consists of **Bundles**. Each **Bundle** is demonstrated on one domain as an example, but can be applied
-to other domains as well.
+This collection is designed to cover **Metric Learning** tasks using [**Supervisely**](https://supervise.ly/).  
+The collection consists of **Bundles**.  
+Each **Bundle** is demonstrated on one domain as an example, but can be applied to other domains as well.
 
 # Bundles
 
+
+<details>
+  <summary style='font-size: 20px'>🧃 Retail Bundle — label images using updatable reference database</summary>
+   
+  
 <div align="center" markdown>  
 
-## 🧃 Retail Bundle
-label images using updatable reference database
+
+
 
 <p float="left">
   <img src="https://github.com/supervisely-ecosystem/metric-learning-collection/releases/download/v0.0.1/retail-bundle-demo.gif?raw=true" style="width:100%;"/>
 </p>
+ 
+ 
+  
+
+ 
 
 <p align="center">
-  <a href="123">Map</a> •
-  <a href="#bundles">Launch</a> •
-  <a href="#about-us">Applications</a> 
+  <a href="#retail-bundle-map">Map</a> •
+  <a href="#retail-bundle-launch">Launch</a> •
+  <a href="#retail-bundle-applications">Applications</a> 
 
 </p>
+<hr/>
+   
 </div>
 
-<div id="123">
-<h3>Bundle map</h3>
+
+### Retail Bundle map
 <p>this map describe how each application in the bundle connected to each other</p>
-<img src="https://imgur.com/pwPAdqb.png" style="width:100%;"/>
-</div>
+<img src="https://imgur.com/pwPAdqb.png" style="width:80%;"/>
+
 
 --- 
 
 
-<div id="123">
-<h3>How to launch this Bundle</h3>
+
+### Retail Bundle launch
 <img src="https://imgur.com/ejK0mHt.png" style="width:100%;"/>
-</div>
+
 
 
 --- 
 
 
-<div id="123">
-<h3>Applications in Bundle</h3>
 
-</div>
+### Retail Bundle applications
+
+
 
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/import-csv-catalog" src="https://imgur.com/NtiwR4g.png" width="350px" style='padding-bottom: 20px'/>  
 
@@ -80,6 +92,10 @@ label images using updatable reference database
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/similarity-calculator" src="https://imgur.com/WptA30Z.png" width="350px" style='padding-bottom: 20px'/>  
 
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/labeling-tool" src="https://imgur.com/8HQvAuT.png" width="350px" style=''/>  
+
+  
+</details>
+
 
 
 # For Developers
