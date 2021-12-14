@@ -42,7 +42,7 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
 
 
 <p float="left">
-  <img src="https://github.com/supervisely-ecosystem/metric-learning-collection/releases/download/v0.0.1/retail-bundle-demo.gif?raw=true" style="width:100%;"/>
+  <img src="https://github.com/supervisely-ecosystem/metric-learning-collection/releases/download/v0.0.1/retail-bundle-demo.gif?raw=true" style="width:80%;"/>
 </p>
  
  
@@ -63,7 +63,7 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
 
 ### Retail Bundle map
 <p>this map describe how each application in the bundle connected to each other</p>
-<img src="https://imgur.com/pwPAdqb.png" style="width:80%;"/>
+<img src="https://imgur.com/pwPAdqb.png" style="width:100%;"/>
 
 
 --- 
