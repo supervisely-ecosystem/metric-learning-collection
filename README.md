@@ -50,6 +50,7 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
  
 
 <p align="center">
+    <a href="#retail-bundle-launch">Overview</a> •
   <a href="#retail-bundle-launch">Launch</a> •
   <a href="#retail-bundle-map">Map</a> •
   <a href="#retail-bundle-applications">Applications</a> 
@@ -58,8 +59,14 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
 <hr/>
    
 </div>
+  
+ 
+### Retail Bundle overview
 
+This bundle allows you to label images using predictions of pretrained Metric Learning models.   
+ 
 
+---
 
 ### Retail Bundle launch
 <img src="https://imgur.com/ejK0mHt.png" style="width:100%;"/>
