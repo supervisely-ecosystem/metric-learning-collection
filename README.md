@@ -1,14 +1,13 @@
 <div align="center" markdown>
-
-# Metric Learning Collection
-
-collection of tools to work with metric learning tasks
-
----
-
+  
+ 
+  
+  
 <p float="left">
   <img src="https://imgur.com/YE892dg.png" style="width:100%;"/>
 </p>
+
+
 
 
 <p align="center">
@@ -21,7 +20,7 @@ collection of tools to work with metric learning tasks
 
 </div>
 
----
+
 
 # Overview
 
