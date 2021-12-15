@@ -7,7 +7,7 @@ collection of tools to work with metric learning tasks
 ---
 
 <p float="left">
-  <img src="?raw=true" style="width:100%;"/>
+  <img src="https://imgur.com/YE892dg.png" style="width:100%;"/>
 </p>
 
 
