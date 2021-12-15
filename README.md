@@ -50,8 +50,8 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
  
 
 <p align="center">
-  <a href="#retail-bundle-map">Map</a> •
   <a href="#retail-bundle-launch">Launch</a> •
+  <a href="#retail-bundle-map">Map</a> •
   <a href="#retail-bundle-applications">Applications</a> 
 
 </p>
@@ -60,22 +60,18 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
 </div>
 
 
-### Retail Bundle map
-<p>this map illustrates how each application in the bundle connected to each other</p>
-<img src="https://imgur.com/pwPAdqb.png" style="width:100%;"/>
-
-
---- 
-
-
 
 ### Retail Bundle launch
 <img src="https://imgur.com/ejK0mHt.png" style="width:100%;"/>
 
 
+---
+  
+### Retail Bundle map
+<p>this map illustrates how each application in the bundle connected to each other</p>
+<img src="https://imgur.com/pwPAdqb.png" style="width:100%;"/>
 
 --- 
-
 
 
 ### Retail Bundle applications
