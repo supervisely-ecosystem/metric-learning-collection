@@ -30,7 +30,7 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
 
 <details>
   <summary style='font-size: 20px'>🧃 Retail Bundle — Label images using updatable Reference Database</summary>
-
+ 
 
 <div align="center" markdown>  
 
@@ -70,11 +70,11 @@ All you need to start is:
     <tr style="width: 100%">
         <td >
           <img src="https://imgur.com/4fZNO25.png" style=""/>
-            <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px">assign tags using NN predictions</p>
+            <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px; padding-bottom: 0">assign tags using NN predictions</p>
         </td>
         <td>
           <img src="https://imgur.com/KRcUqSg.png" style=""/>
-            <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px">add new items to Reference Database</p> 
+            <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px; padding-bottom: 0">add new items to Reference Database</p> 
         </td>
     </tr>
     <tr>
