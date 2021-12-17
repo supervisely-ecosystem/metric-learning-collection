@@ -28,7 +28,7 @@ Each **Bundle** is demonstrated on one domain as an example, but can be applied 
 
 # Bundles
 
-<details>
+<details open>
   <summary style='font-size: 20px'>🧃 Retail Bundle — Label images using updatable Reference Database</summary>
  
 
