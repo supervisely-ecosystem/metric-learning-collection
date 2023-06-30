@@ -4,7 +4,7 @@
 
 
 <p float="left">
-  <img src="https://imgur.com/YE892dg.png" style="width:100%;"/>
+  <img src="media/poster.png" style="width:100%;"/>
 </p>
 
 
@@ -69,21 +69,21 @@ All you need to start is:
 <table>
     <tr style="width: 100%">
         <td >
-          <img src="https://imgur.com/4fZNO25.png" style=""/>
+          <img src="media/rb1.png" style=""/>
             <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px; padding-bottom: 0">assign tags using NN predictions</p>
         </td>
         <td>
-          <img src="https://imgur.com/KRcUqSg.png" style=""/>
+          <img src="media/rb2.png" style=""/>
             <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px; padding-bottom: 0">add new items to Reference Database</p> 
         </td>
     </tr>
     <tr>
         <td>
-          <img src="https://imgur.com/VI5mcA1.png" style=""/>
+          <img src="media/rb3.png" style=""/>
             <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px">review assigned tags</p> 
         </td>
         <td>
-          <img src="https://imgur.com/rrDFVQP.png" style=""/>
+          <img src="media/rb4.png" style=""/>
             <p align="center" style="font-family:'Lucida Console', monospace; margin-top: 8px">manual search in Reference Database</p> 
         </td>
     </tr>
@@ -95,7 +95,7 @@ All you need to start is:
 
 ### Retail Bundle launch
 
-<img src="https://imgur.com/ejK0mHt.png" style="width:100%;"/>
+<img src="media/rbl1.png" style="width:100%;"/>
 
 
 ---
@@ -103,21 +103,21 @@ All you need to start is:
 ### Retail Bundle map
 
 <p>this map illustrates how each application in the bundle connected to each other</p>
-<img src="https://imgur.com/pwPAdqb.png" style="width:100%;"/>
+<img src="media/rbm1.png" style="width:100%;"/>
 
 --- 
 
 ### Retail Bundle applications
 
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/import-csv-catalog" src="https://imgur.com/NtiwR4g.png" width="350px" style='padding-bottom: 20px'/>  
+<!--<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/import-csv-catalog" src="" width="350px" style='padding-bottom: 20px'/> og image missing -->
 
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/serve" src="https://imgur.com/A3BW6hP.png" width="350px" style='padding-bottom: 10px'/>
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/serve" src="media/rba2.png" width="350px" style='padding-bottom: 10px'/>
 
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/calculator" src="https://imgur.com/QL90cJS.png" width="350px" style='padding-bottom: 20px'/>  
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/calculator" src="media/rba3.png" width="350px" style='padding-bottom: 20px'/>  
 
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/similarity-calculator" src="https://imgur.com/WptA30Z.png" width="350px" style='padding-bottom: 20px'/>  
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/similarity-calculator" src="media/rba4.png" width="350px" style='padding-bottom: 20px'/>  
 
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/labeling-tool" src="https://imgur.com/8HQvAuT.png" width="350px" style=''/>  
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/gl-metric-learning/supervisely/labeling-tool" src="media/rba5.png" width="350px" style=''/>  
 
 
 </details>
