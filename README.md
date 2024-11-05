@@ -22,7 +22,7 @@
 
 # Overview
 
-This collection is designed to cover **Metric Learning** tasks using [**Supervisely**](https://supervise.ly/).  
+This collection is designed to cover **Metric Learning** tasks using [**Supervisely**](https://supervisely.com/).  
 The collection consists of **Bundles**.  
 Each **Bundle** is demonstrated on one domain as an example, but can be applied to other domains as well.
 
@@ -129,12 +129,12 @@ You can use sources from from any application to create your own.
 You can also refer to our documentation:
 
 - [How to create Superivsely APP](https://github.com/supervisely-ecosystem/how-to-create-app)
-- [Learn SDK Basics with IPython Notebooks](https://sdk.docs.supervise.ly/rst_templates/notebooks/notebooks.html)
-- [Complete Python SDK](https://sdk.docs.supervise.ly/sdk_packages.html)
+- [Learn SDK Basics with IPython Notebooks](https://sdk.docs.supervisely.com/rst_templates/notebooks/notebooks.html)
+- [Complete Python SDK](https://sdk.docs.supervisely.com/sdk_packages.html)
 
 # About us
 
-You can think of [Supervisely](https://supervise.ly/) as an Operating System available via Web Browser to help you solve
+You can think of [Supervisely](https://supervisely.com/) as an Operating System available via Web Browser to help you solve
 Computer Vision tasks. The idea is to unify all the relevant tools that may be needed to make the development process as
 smooth and fast as possible.
 
@@ -156,6 +156,6 @@ GPU related computations will be performed on the connected machine(s).
 - for technical support please leave issues, questions or suggestions in
   our [repo](https://github.com/supervisely-ecosystem/mmclassification). Our team will try to help.
 - also we can chat in slack
-  channel [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+  channel [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 - if you are interested in Supervisely Enterprise Edition (EE) please send us
-  a [request](https://supervise.ly/enterprise/?demo) or email Yuri Borisov at [sales@supervise.ly](sales@supervise.ly)
+  a [request](https://supervisely.com/enterprise/?demo) or email Yuri Borisov at [sales@supervisely.com](sales@supervisely.com)
